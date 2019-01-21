@@ -2,7 +2,7 @@ var recipes={};
 
 var obj = { prop: 1 };
 function updateObjectWithKeyAndValue(object, key, value){
-object[obj]
-object
+object[obj],{'prop2':"2"}
 }
+//(updateObjectWithKeyAndValue(obj, 'prop2', 2)
 
