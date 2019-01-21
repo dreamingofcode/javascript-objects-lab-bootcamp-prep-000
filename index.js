@@ -6,7 +6,7 @@ object[obj],{'prop2':"2"}
 }
 
 function updateObjectWithKeyAndValue(object,key,value){
-  assign({},[obj],{'prop2':"2"})
+  object.assign({},[obj],{'prop2':"2"})
 }
 //(updateObjectWithKeyAndValue(obj, 'prop2', 2)
 
